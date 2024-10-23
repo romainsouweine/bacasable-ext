@@ -1,1 +1,2 @@
 Testing the mirroring. 
+Testing automatic mirroring. (Now that we can resolve dns)
